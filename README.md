@@ -20,6 +20,6 @@ I am a computer science student at VSB Technical University of Ostrava.<br><br>ð
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 # ðŸ“Š GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=katussska&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=katussska&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
