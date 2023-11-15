@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer science student at VSB Technical University of Ostrava.<br><br>🔭 I’m currently working on improving web development skills.<br>🌱 I’m currently learning JavaScript, HTML, CSS, Java and C++.
+I am a computer science student at VSB Technical University of Ostrava.<br><br>🔭 I’m currently working school projects 4ocean website and MovieHub.<br>🌱 I’m currently learning JavaScript, HTML, CSS, Java and C++.
 
 
 ## 🌐 Socials:
