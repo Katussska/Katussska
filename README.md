@@ -14,10 +14,6 @@
 
 ###
 
-<h3 align="left">🌱 Outside of coding, you'll find me enjoying quality time with my partner and friends. I'm a fan of music, and I often spend my leisure time listening to tunes, catching up on my favorite series, or watching movies.<br><br>💬 Let's connect! Whether it's discussing coding, sharing ideas, or just chatting about our favorite hobbies, I'm always open to new conversations and opportunities. Feel free to reach out to me via Discord, email or LinkedInl.<br><br>📫 Thanks for dropping by my profile.</h3>
-
-###
-
 <br clear="both">
 
 <div align="center">
