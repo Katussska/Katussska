@@ -79,9 +79,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Katussska/Katussska/output/snake.svg" alt="Snake animation" />
-
-###
