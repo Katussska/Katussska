@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I'm Katussska, currently in my second year of undergraduate studies, pursuing a Bachelor's degree in Computer Science at VSB - Technical University of Ostrava. Although I started my programming journey in college, I've developed a strong interest in web development and aspire to specialize in this field in the future.</h3>
+<h3 align="left">I'm Katussska, currently in my third year of undergraduate studies, pursuing a Bachelor's degree in Computer Science at VSB - Technical University of Ostrava. Although I started my programming journey in college, I've developed a strong interest in web development and aspire to specialize in this field in the future.</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Projects: <br>While I'm relatively new to programming, you'll discover a collection of projects reflecting my journey as I explore several languages, from HTML and CSS to C++ and Java. These projects mainly revolve around web development as I hone my skills in frontend design and backend functionality.<br><br>Learning: <br>As a student, I'm continuously learning and expanding my knowledge. Currently, I'm familiarizing myself with Python, Java, and improving my proficiency in C++. I'm also dedicated to enhancing my web development skills in my free time.</h3>
+<h3 align="left">Projects: <br>While I'm relatively new to programming, you'll discover a collection of projects reflecting my journey as I explore several languages, from HTML and CSS to Java and C++. These projects mainly revolve around web development as I hone my skills in frontend design and backend functionality.<br><br>Learning: <br>As a student, I'm continuously learning and expanding my knowledge. I'm dedicated to enhancing my web development skills in my free time.</h3>
 
 ###
 
